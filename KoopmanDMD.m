@@ -1,11 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% EDMD‐based Koopman approximation with
-%  1) singular‐value spectrum
-%  2) error vs truncation rank r
-%  3) reconstruction plot vs truth
-% Jake Wicks | April 27 2025
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 clear; close all; clc;
 
 %% Parameters
